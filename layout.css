@@ -1,0 +1,42 @@
+
+.box{
+	margin: 20px
+background-color: blue;
+height: 40px;
+color: red;
+}
+.header{
+	margin: 20px
+background-color: red;
+color: black;
+height: 250px;
+font-family: sans-serif;
+font-size: 30px;
+}
+.image{
+margin: 20px;
+height: 150px
+background-color:green;
+color: ghostwhite;
+}
+.myex{
+margin: 30px;
+background-color: gold;
+color: blue;
+height: 150px;
+}
+.dope{
+background-color: green;
+color: red;
+height: 200px;
+}
+.texting{
+margin: 30px;
+background-color: skyblue;
+color: navy;
+height: 200px;
+
+
+
+
+}

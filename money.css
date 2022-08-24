@@ -1,0 +1,21 @@
+.fist{
+column-count:2;
+background-color:navy;
+}
+.image{
+width: 500px;
+height: 400px
+
+}
+.body{
+color: ghostwhite;
+<background-color: blue;
+
+
+}
+.footer{
+background-color: green;
+color: ghostwhite;
+font-size: 35px;
+column-count: 3
+}
